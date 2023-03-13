@@ -1,12 +1,12 @@
 body{
-    background: aliceblue;
+    background: rgb(90, 147, 90);
     font-family: Arial, Helvetica, sans-serif;
 }
 .assignment{
     display: flex;
     padding: 10px;
     margin: 10px;
-    background:blue;
+    background:rgb(77, 77, 106);
 }
 
 .assignment img{
